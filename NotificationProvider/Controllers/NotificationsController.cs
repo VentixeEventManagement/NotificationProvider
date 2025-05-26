@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using NotificationProvider.Interfaces;
 
+// Genererat med hjälp av ChatGPT – OpenAI.
+
 [ApiController]
 [Route("api/[controller]")]
 public class NotificationsController : ControllerBase

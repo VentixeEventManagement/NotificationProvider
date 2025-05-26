@@ -1,5 +1,7 @@
 ﻿using NotificationProvider.Interfaces;
 
+// Genererat med hjälp av ChatGPT – OpenAI.
+
 namespace NotificationProvider.Services;
 
 public class NotificationService : INotificationService
